@@ -3,6 +3,8 @@ Works for assignments of CS223 class of Bilkent University. (2020 Fall)
 
 **I used Vivado software to write, synthesize and implement these codes. I used Xilinx Basys3 Development Kit to test these codes.**
 
+(Lab 1 didn't involve any codes)
+
 ## Lab 2
 Implementation of full adder, full subtractor and 2-bit adder with testbenches.
 
